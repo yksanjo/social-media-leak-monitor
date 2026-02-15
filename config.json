@@ -1,0 +1,8 @@
+{
+  "domains": [
+    "example.com",
+    "yourcompany.com"
+  ],
+  "interval": 30,
+  "verbose": false
+}
